@@ -1,0 +1,12 @@
+#+title: Notes
+* Resources
+- [[https://stanford.edu/class/ee364a/index.html][Standford EE364a]]
+- [[https://web.stanford.edu/class/ee364b/][EE364b - Convex Optimization II]]
+- [[https://www.stanford.edu/~boyd/cvxbook/][textbook]]
+- [[https://www.cvxpy.org/][cvxpy]]
+- [[https://github.com/PKUFlyingPig/Standford_CVX101][PKUflyingpig]]
+
+* Homeworks
+- [[https://web.stanford.edu/class/ee364a/homework.html][EE364a: Homework]]
+- [[github:cvxgrp/cvxbook_additional_exercises][cvxbook_additional_exercises]]
+- [[https://web.stanford.edu/class/ee364b/homework.html][EE364b: Homework]]
