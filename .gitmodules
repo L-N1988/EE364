@@ -1,0 +1,3 @@
+[submodule "cvxbook_additional_exercises"]
+	path = cvxbook_additional_exercises
+	url = https://github.com/L-N1988/cvxbook_additional_exercises.git
