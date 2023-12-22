@@ -1,6 +1,6 @@
 #+title: Notes
 * Resources
-- [[https://stanford.edu/class/ee364a/index.html][Standford EE364a]]
+- [[https://stanford.edu/class/ee364a/index.html][EE364a: Convex Optimization I]]
 - [[https://web.stanford.edu/class/ee364b/][EE364b - Convex Optimization II]]
 - [[https://www.stanford.edu/~boyd/cvxbook/][textbook]]
 - [[https://www.cvxpy.org/][cvxpy]]
@@ -8,5 +8,10 @@
 
 * Homeworks
 - [[https://web.stanford.edu/class/ee364a/homework.html][EE364a: Homework]]
-- [[github:cvxgrp/cvxbook_additional_exercises][cvxbook_additional_exercises]]
+- [[https://github.com/cvxgrp/cvxbook_additional_exercises][cvxbook_additional_exercises]]
 - [[https://web.stanford.edu/class/ee364b/homework.html][EE364b: Homework]]
+- [[https://web.stanford.edu/class/ee364b/latex_templates/][LaTeX template]]
+
+* Homeworks for EE364a
+- Homework 1, due Friday 7/1/22:  2.9, 2.12a-e, 2.15, 2.4, A1.4, A2.7, 2.13.
+  See [[https://web.stanford.edu/class/ee364a/solutions/hw/2022sum_hw1sol.pdf][Solutions.]]
