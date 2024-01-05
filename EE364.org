@@ -14,4 +14,9 @@
 
 * Homeworks for EE364a
 - Homework 1, due Friday 7/1/22:  2.9, 2.12a-e, 2.15, 2.4, A1.4, A2.7, 2.13.
-  See [[https://web.stanford.edu/class/ee364a/solutions/hw/2022sum_hw1sol.pdf][Solutions.]]
+- Homework 2, due Friday 7/8/22: 3.14, 3.23, 3.42, 3.49a-c, A3.59, A3.12, 4.1, A4.2.
+- Homework 3, due Friday 7/15/22: 4.8a-d, 4.11a-c, A3.33, A3.36, A4.28, A20.9.
+- Homework 4, due Friday 7/22/22: A5.11, A5.36, A5.1, A4.7, A17.4, A16.6, A16.2.
+- Homework 5, due Friday 7/29/22: A7.3, 6.2, 6.5, A17.16, 6.10, A5.21.
+- Homework 6, due Friday 8/5/22: CCP, A8.21, A8.26, A7.35, 8.25, A16.1, A7.18.
+- Homework 7, due Wednesday 8/10/22: A13.2, A14.4, A21.22.
