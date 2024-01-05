@@ -26,15 +26,16 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.5473901"
-     inkscape:cx="395.50466"
-     inkscape:cy="517.64581"
+     inkscape:zoom="1.7750575"
+     inkscape:cx="410.69093"
+     inkscape:cy="433.22541"
      inkscape:window-width="2150"
      inkscape:window-height="1378"
      inkscape:window-x="4"
      inkscape:window-y="56"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showgrid="false" />
   <defs
      id="defs1">
     <inkscape:path-effect
@@ -190,7 +191,7 @@
          id="tspan12"
          style="fill:#000000;stroke-width:0;stroke-dasharray:none"
          x="90.174454"
-         y="122.20121">S</tspan></text>
+         y="122.20121">$S$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14.1111px;font-family:'Source Han Sans CN';-inkscape-font-specification:'Source Han Sans CN';opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
@@ -201,7 +202,7 @@
          id="tspan13"
          style="stroke-width:0;stroke-dasharray:none"
          x="138.95352"
-         y="188.93169">T</tspan></text>
+         y="188.93169">$T$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14.1111px;font-family:'Source Han Sans CN';-inkscape-font-specification:'Source Han Sans CN';opacity:1;fill:#ffe6d5;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -224,5 +225,78 @@
          style="stroke-width:0"
          x="157.82698"
          y="142.46089">Set</tspan></text>
+    <circle
+       id="path1"
+       style="fill:#000000;stroke:none;stroke-width:0.264583"
+       cx="84.40834"
+       cy="160.31911"
+       r="0" />
+    <circle
+       id="path3"
+       style="fill:#000000;stroke:none;stroke-width:0.264583"
+       cx="84.40834"
+       cy="160.31911"
+       r="0" />
+    <circle
+       id="path4"
+       style="fill:#008000;stroke:#000000;stroke-width:0.264583"
+       cx="82.904877"
+       cy="166.08336"
+       r="0" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0"
+       id="path5"
+       cx="107.5268"
+       cy="153.67491"
+       r="1.2296457" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0"
+       id="path5-2"
+       cx="132.72757"
+       cy="143.57549"
+       r="1.2296457" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0"
+       id="path5-7"
+       cx="78.223396"
+       cy="165.5359"
+       r="1.2296457" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.5;stroke-dasharray:3,3;stroke-dashoffset:0"
+       d="M 78.276954,165.42469 132.55888,143.68891"
+       id="path6" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:'Source Han Sans CN';-inkscape-font-specification:'Source Han Sans CN';fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-dashoffset:0"
+       x="74.769745"
+       y="172.5871"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="font-size:3.52778px;stroke-width:0.5;stroke-dasharray:none"
+         x="74.769745"
+         y="172.5871">$x_1$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:'Source Han Sans CN';-inkscape-font-specification:'Source Han Sans CN';fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-dashoffset:0"
+       x="133.98431"
+       y="149.55614"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="font-size:3.52778px;stroke-width:0.5"
+         x="133.98431"
+         y="149.55614">$x_2$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:'Source Han Sans CN';-inkscape-font-specification:'Source Han Sans CN';fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-dashoffset:0"
+       x="102.8203"
+       y="163.14322"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="font-size:3.52778px;stroke-width:0.5"
+         x="102.8203"
+         y="163.14322">$\theta x_1+(1-\theta)x_2$</tspan></text>
   </g>
 </svg>

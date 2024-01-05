@@ -20,3 +20,4 @@
 - Homework 5, due Friday 7/29/22: A7.3, 6.2, 6.5, A17.16, 6.10, A5.21.
 - Homework 6, due Friday 8/5/22: CCP, A8.21, A8.26, A7.35, 8.25, A16.1, A7.18.
 - Homework 7, due Wednesday 8/10/22: A13.2, A14.4, A21.22.
+- See [[https://egrcc.github.io/docs/math/cvxbook-solutions.pdf][Solution manual]].
