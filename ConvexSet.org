@@ -1,0 +1,21 @@
+#+title: Convex Set
+#+STARTUP: latexpreview
+
+* 疑问
+- 2.6.3 Minimum and minimal elements via dual inequalities
+
+* Dual cone and generalized inequalities
+See [[http://www.princeton.edu/~chiangm/ele539l15.pdf][Princeton slides]] and [[https://www.math.uwaterloo.ca/~hwolkowi/henry/teaching/w10/367.w10/367miscfiles/Lecture3pgs9t12.pdf][U waterloo slides(short but useful!!!)]].
+
+** 锥在广义不等式的作用
+锥实际上定义了一种广义的非负空间 $K$，如PSD cone和Nonnegative orthant.
+通过数学对象的相减结果是否在非负空间内来度量两个数学对象的大小.
+\[
+x\preceq_K y \iff y-x\in K
+\]
+
+** 对偶锥在定义minimum和minimal元素的作用
+图中锥定义为 $K=\mathbf{R}^2_+$. 因此 $x+K$ 为平移 $x$ 的二维非负象限， $x-K$ 为平移 $x$ 的二维非正象限。
+#+CAPTION: Minimum and Minimal Elements
+#+NAME:   fig:SED-HR4049
+[[./figures/minis.png]]
